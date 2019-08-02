@@ -94,12 +94,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/quantisnetevo/quantisnetcore-lib.git"
+    "url": "https://github.com/wkibbler/quantisnetcore-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/quantisnetevo/quantisnetcore-lib/issues"
+    "url": "https://github.com/wkibbler/quantisnetcore-lib/issues"
   },
-  "homepage": "https://github.com/quantisnetevo/quantisnetcore-lib",
+  "homepage": "https://github.com/wkibbler/quantisnetcore-lib",
   "browser": {
     "request": "browser-request"
   },
