@@ -1,5 +1,5 @@
 {
-  "name": "@quantisnetevo/quantisnetcore-lib",
+  "name": "quantisnetcore-lib",
   "version": "0.17.9",
   "description": "A pure and powerful JavaScript Quantsisnet library.",
   "author": "Quantsisnet Core Group, Inc. <dev@quantisnet.org>",
