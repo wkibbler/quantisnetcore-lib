@@ -7,7 +7,7 @@
 /* jshint latedef: false */
 var should = require('chai').should();
 var expect = require('chai').expect;
-var _ = require('loquantisnet');
+var _ = require('lodash');
 
 var bitcore = require('../..');
 var Transaction = bitcore.Transaction;
